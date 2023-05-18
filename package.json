@@ -49,5 +49,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Aquí tienes una aplicación maquetada con HTML y CSS. Se trata de una aplicación que gestiona un listado de series, separándolas entre series vistas y no vistas.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinVanDerSchans/202304-W3CH4-Kevin-Schans.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinVanDerSchans/202304-W3CH4-Kevin-Schans/issues"
+  },
+  "homepage": "https://github.com/KevinVanDerSchans/202304-W3CH4-Kevin-Schans#readme"
 }
